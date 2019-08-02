@@ -111,3 +111,4 @@
 1. [vipkid](https://www.vipkid.com.cn/)
 1. [华大基因](http://www.genomics.cn)
 1. [浙江移动和慧眼](http://www.hehuiyan.com)
+1. [千锋教育](http://www.qfedu.com/)
